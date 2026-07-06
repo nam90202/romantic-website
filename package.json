@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "three": "^r128",
+    "three": "^1.128.0",
     "troika-three-text": "^0.49.0"
   },
   "devDependencies": {
